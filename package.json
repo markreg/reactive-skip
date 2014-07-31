@@ -1,7 +1,7 @@
 {
   "name": "reactive-skip",
   "version": "0.0.1",
-  "description": "Conditionally skip processing of a node and its descendants",
+  "description": "Conditionally skip processing of an element",
   "main": "index.js",
   "scripts": {
     "test-local": "zuul --local 8080 -- test/index.js",

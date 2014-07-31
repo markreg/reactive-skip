@@ -1,6 +1,6 @@
 # reactive-skip
 
-Plugin for [reactive](https://github.com/component/reactive) to conditionally skip processing of a node and its descendants. Adds a `data-skip` binding.
+Plugin for [reactive](https://github.com/component/reactive) to conditionally skip processing of an element. Adds a `data-skip` binding.
 
 > Jump to: [Example](#example) - [Install](#install) - [License](#license)
 
